@@ -5,6 +5,8 @@ In this project:
 📊 Trained the model on a small binary classification dataset
 🤖 Predicts class labels (0 or 1) for new data points
 🎨 Includes visualization of the decision boundary using Matplotlib
+(<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/a4d3f745-7fd1-4ba5-82f3-eb21cb8e02b3" />)
+
 
 #Overview
 
@@ -28,6 +30,7 @@ After training the model:
 - A visualization graph is generated showing:
   - Data points
   - Decision boundary learned by the perceptron
+    
   (<img width="640" height="480" alt="output" src="https://github.com/user-attachments/assets/b4656082-22fe-46ce-b8fd-512f490c2e17" />)
 
 #How the Algorithm Works
