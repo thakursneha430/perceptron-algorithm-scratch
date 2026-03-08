@@ -5,7 +5,8 @@ In this project:
 📊 Trained the model on a small binary classification dataset
 🤖 Predicts class labels (0 or 1) for new data points
 🎨 Includes visualization of the decision boundary using Matplotlib
-(<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/a4d3f745-7fd1-4ba5-82f3-eb21cb8e02b3" />)
+
+  <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/a4d3f745-7fd1-4ba5-82f3-eb21cb8e02b3" />
 
 
 #Overview
