@@ -34,7 +34,7 @@ After training the model:
   - Data points
   - Decision boundary learned by the perceptron
     
-  (<img width="640" height="480" alt="output" src="https://github.com/user-attachments/assets/b4656082-22fe-46ce-b8fd-512f490c2e17" />)
+<img width="640" height="480" alt="output" src="https://github.com/user-attachments/assets/b4656082-22fe-46ce-b8fd-512f490c2e17" />
 
 ## How the Algorithm Works
 1. Initialize weights and bias
