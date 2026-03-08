@@ -5,9 +5,8 @@ In this project:
 📊 Trained the model on a small binary classification dataset
 🤖 Predicts class labels (0 or 1) for new data points
 🎨 Includes visualization of the decision boundary using Matplotlib
-![perceptron Graph](<img width="640" height="480" alt="output" src="https://github.com/user-attachments/assets/b4656082-22fe-46ce-b8fd-512f490c2e17" />)
 
-##Overview
+#Overview
 
 This project implements the Perceptron algorithm from scratch using Python without relying on high-level machine learning libraries.
 The goal of this project is to understand how a basic neural network learns to classify data.The Perceptron is one of the earliest machine learning algorithms and forms the foundation of modern neural networks.The perceptron was introduced by Frank Rosenblatt (1957).It is a simple supervised learning algorithm used for binary classification problems.The model learns by adjusting weights and bias to correctly separate two classes of data using a decision boundary.
@@ -42,7 +41,8 @@ After training the model:
 - A visualization graph is generated showing:
   - Data points
   - Decision boundary learned by the perceptron
-    
+ (<img width="640" height="480" alt="output" src="https://github.com/user-attachments/assets/b4656082-22fe-46ce-b8fd-512f490c2e17" />)
+
 #Learning Outcome
 This project helps understand:
 - Basics of neural networks
