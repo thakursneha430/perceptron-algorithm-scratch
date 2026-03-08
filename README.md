@@ -8,11 +8,13 @@ In this project:
 ![perceptron Graph](<img width="640" height="480" alt="output" src="https://github.com/user-attachments/assets/b4656082-22fe-46ce-b8fd-512f490c2e17" />)
 
 #Overview
+
 This project implements the Perceptron algorithm from scratch using Python without relying on high-level machine learning libraries.
 The goal of this project is to understand how a basic neural network learns to classify data.
 The Perceptron is one of the earliest machine learning algorithms and forms the foundation of modern neural networks.
 
 #Algorithm Background
+
 The perceptron was introduced by Frank Rosenblatt (1957).
 It is a simple supervised learning algorithm used for binary classification problems.
 The model learns by adjusting weights and bias to correctly separate two classes of data using a decision boundary.
@@ -29,6 +31,7 @@ perceptron-from-scratch/
 ```
 #Dataset
 The dataset contains two input features and one label:
+'''
 x1,x2,label
 2,3,1
 1,1,0
@@ -40,6 +43,7 @@ x1,x2,label
 1,0,0
 - x1, x2 → input features
 - label → class (0 or 1)
+'''
 
 #How the Algorithm Works
 1. Initialize weights and bias
