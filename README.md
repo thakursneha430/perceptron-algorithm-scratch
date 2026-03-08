@@ -7,6 +7,7 @@ In this project:
 🎨 Includes visualization of the decision boundary using Matplotlib
 
 #Overview
+
 This project implements the Perceptron algorithm from scratch using Python without relying on high-level machine learning libraries.The goal of this project is to understand how a basic neural network learns to classify data.The Perceptron is one of the earliest machine learning algorithms and forms the foundation of modern neural networks.The perceptron was introduced by Frank Rosenblatt (1957).It is a simple supervised learning algorithm used for binary classification problems.The model learns by adjusting weights and bias to correctly separate two classes of data using a decision boundary.
 
 ## Project Structure
@@ -21,6 +22,7 @@ perceptron-from-scratch/
 ```
 
 #Output
+
 After training the model:
 - Predictions are printed in the terminal
 - A visualization graph is generated showing:
