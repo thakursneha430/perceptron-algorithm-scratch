@@ -17,20 +17,16 @@ The perceptron was introduced by Frank Rosenblatt (1957).
 It is a simple supervised learning algorithm used for binary classification problems.
 The model learns by adjusting weights and bias to correctly separate two classes of data using a decision boundary.
 
-#Project Structure
-perceptron-from-scratch
-│
-├── data
+## Project Structure
+```
+perceptron-from-scratch/
+│── data/
 │   └── dataset.csv
-│
-├── src
-│   ├── perceptron.py
-│   └── train.py
-│
-├── results
-│
-└── README.md
-
+│── src/
+│   └── perceptron.py
+│── train.py
+│── README.md
+```
 #Dataset
 The dataset contains two input features and one label:
 x1,x2,label
