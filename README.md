@@ -11,12 +11,6 @@ In this project:
 
 ## Overview
 
-![Perceptron Learning](https://i.imgur.com/1QgrNNw.gif)
-
-A simple implementation of the **Perceptron Algorithm built from scratch** to understand the fundamentals of machine learning and neural networks.
-
-✨ Learn how a model updates **weights, bias, and decision boundary** during training
-
 This project implements the Perceptron algorithm from scratch using Python without relying on high-level machine learning libraries.The goal of this project is to understand how a basic neural network learns to classify data.The Perceptron is one of the earliest machine learning algorithms and forms the foundation of modern neural networks.The perceptron was introduced by Frank Rosenblatt (1957).It is a simple supervised learning algorithm used for binary classification problems.The model learns by adjusting weights and bias to correctly separate two classes of data using a decision boundary.
 
 <img width="800" height="397" alt="image" src="https://github.com/user-attachments/assets/17a71000-6e3e-43e4-b5b7-66f3830498cf" />
